@@ -1,0 +1,24 @@
+{
+  "name": "Dolap Planlama",
+  "short_name": "Dolap",
+  "description": "MDF dolap kesim, kapak, kulp, çekmece ve raf hesaplama aracı",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#f5c842",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
